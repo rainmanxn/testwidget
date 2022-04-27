@@ -1,0 +1,25 @@
+body {
+  background: #bfbfbf;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wrapper {
+  display: flex;
+  width: 80%;
+  height: 500px;
+  border: 1px solid black;
+  padding: 30px;
+}
+
+.widget-wrapper {
+  height: 470px;
+  width: 428px;
+  margin-right: 50px;
+}
+
+.iframe-widget {
+  border: none;
+  border-radius: 24px;
+}
